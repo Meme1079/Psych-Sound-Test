@@ -1,0 +1,7 @@
+{
+	"name": "Sonic Text Screen",
+	"description": "Script that makes you select you're NoteSkins",
+	"restart": false,
+	"runsGlobally": false,
+	"color": [108, 148, 201]
+}

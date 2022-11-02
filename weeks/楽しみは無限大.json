@@ -1,0 +1,31 @@
+{
+	"storyName": "???",
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Easy, Normal, Hard",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+            "Menu",
+		  "face",
+			[
+			   32,
+		        22,
+		        132
+			]
+		]
+	],
+	"hideStoryMode": true,
+	"weekName": "Week ???"
+}
